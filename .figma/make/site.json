@@ -1,0 +1,10 @@
+{
+  "description": "A setup verification tool that prepares imported projects for deployment and preview, helping developers catch critical issues before publishing.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
